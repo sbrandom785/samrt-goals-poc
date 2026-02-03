@@ -1,3 +1,0 @@
-[build]
-  base = "smart-app/app"
-  command = "npm run build"
